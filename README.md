@@ -1,1 +1,1 @@
-# oms is web
+# oms is a web project
